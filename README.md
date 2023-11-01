@@ -17,6 +17,16 @@
   <a href="https://github.com/gangadhararaoande"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=gangadhararaoande&style=for-the-badge&color=red" alt="Profile Views"></a>
 </div>
+<br/>
+<h3 align="center">Seeking to achieve a position in a reputed company which provides me with adequate opportunities to increase my skills and knowledge, along with contributing for the growth of the company.</h3> <br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gangadhararaoande" alt="gangadhararaoande" /></a> </p>
+<img align="right" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+
+- 🌱 I’m currently learning **MERN Full Stack Development**
+- 💬 Ask me about **Javascript CSS HTML**
+- 📫 How to reach me **gangadharr18@gmail.com**
+- 👯 Also you visit my Linkedin profile to reach me **www.linkedin.com/in/gangadhara-rao-ande**
+- ⚡ Fun fact **I think I am Funny**
 
 <!-- Favorite Tools -->
 ## 🛠️ My Favorite Tools
